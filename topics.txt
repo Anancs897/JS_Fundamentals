@@ -1,0 +1,3 @@
+1) splice operator:
+
+visit:https://www.freecodecamp.org/news/javascript-splice-how-to-use-the-splice-js-array-method/
